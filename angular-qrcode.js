@@ -3,6 +3,8 @@
  * (c) 2017 Monospaced http://monospaced.com
  * License: MIT
  */
+import angular from 'angular';
+import qrcode from 'qrcode-generator';
 
 if (typeof module !== 'undefined' &&
     typeof exports !== 'undefined' &&
